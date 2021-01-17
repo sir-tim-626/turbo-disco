@@ -1,4 +1,3 @@
-<p>How To</p>
 
 <div bp="grid">
   <img bp="offset-5@md 4@md 12@sm" src="handwash.png" alt="How to wash hands" />
